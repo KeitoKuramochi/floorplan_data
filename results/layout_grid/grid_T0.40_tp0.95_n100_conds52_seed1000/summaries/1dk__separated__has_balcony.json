@@ -1,0 +1,16 @@
+{
+  "condition": {
+    "layout": "1DK",
+    "sanitary": "Separated",
+    "balcony": "Has_Balcony"
+  },
+  "summary": {
+    "num_samples": 100,
+    "valid_rate": 0.94,
+    "connectivity_rate": 0.94,
+    "nldk_compliance_rate": 0.88,
+    "diversity_unique_count": 14,
+    "diversity_unique_rate": 0.14,
+    "diversity_entropy": 2.9474435408556396
+  }
+}
