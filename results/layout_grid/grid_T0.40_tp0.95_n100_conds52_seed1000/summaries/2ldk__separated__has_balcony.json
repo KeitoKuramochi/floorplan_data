@@ -1,0 +1,16 @@
+{
+  "condition": {
+    "layout": "2LDK",
+    "sanitary": "Separated",
+    "balcony": "Has_Balcony"
+  },
+  "summary": {
+    "num_samples": 100,
+    "valid_rate": 0.8,
+    "connectivity_rate": 0.8,
+    "nldk_compliance_rate": 0.8,
+    "diversity_unique_count": 10,
+    "diversity_unique_rate": 0.1,
+    "diversity_entropy": 2.6239061193482414
+  }
+}
