@@ -1,0 +1,16 @@
+{
+  "condition": {
+    "layout": "1R",
+    "sanitary": "Unit",
+    "balcony": "No_Balcony"
+  },
+  "summary": {
+    "num_samples": 100,
+    "valid_rate": 1.0,
+    "connectivity_rate": 1.0,
+    "nldk_compliance_rate": 1.0,
+    "diversity_unique_count": 1,
+    "diversity_unique_rate": 0.01,
+    "diversity_entropy": 0.0
+  }
+}
