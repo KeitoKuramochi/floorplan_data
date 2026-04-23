@@ -1,0 +1,16 @@
+{
+  "condition": {
+    "layout": "4LDK",
+    "sanitary": "Unit",
+    "balcony": "No_Balcony"
+  },
+  "summary": {
+    "num_samples": 100,
+    "valid_rate": 0.72,
+    "connectivity_rate": 0.78,
+    "nldk_compliance_rate": 0.77,
+    "diversity_unique_count": 7,
+    "diversity_unique_rate": 0.07,
+    "diversity_entropy": 1.6629907985209662
+  }
+}
