@@ -1,0 +1,16 @@
+{
+  "condition": {
+    "layout": "3LDK",
+    "sanitary": "Separated",
+    "balcony": "No_Balcony"
+  },
+  "summary": {
+    "num_samples": 100,
+    "valid_rate": 0.92,
+    "connectivity_rate": 0.93,
+    "nldk_compliance_rate": 0.97,
+    "diversity_unique_count": 18,
+    "diversity_unique_rate": 0.18,
+    "diversity_entropy": 3.5216042548791826
+  }
+}
